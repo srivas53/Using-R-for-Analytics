@@ -1,0 +1,12 @@
+library(caret)
+data("cars") 
+class(cars) 
+dim(cars) 
+names(cars)  
+lapply(cars,class)
+head(cars,n=6) 
+factor(cars$Cylinder,ordered=TRUE) 
+table(cars$Cylinder) 
+cars8<-subset(cars,Cylinder==8)
+cars8_pm<-subset(cars8,select=Price:Mileage) 
+ 

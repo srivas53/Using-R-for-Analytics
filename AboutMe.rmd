@@ -1,0 +1,21 @@
+---
+title: "AboutMe"
+author: "Varun Srivastava"
+date: "August 30, 2017"
+output: pdf_document
+---
+###1.LinkedIn Profile 
+
+https://www.linkedin.com/in/varun-srivastava-930456bb/
+
+###2.Why I came to Purdue-
+
+ I wanted to pursue a masters degree in Industrial Engineering. Purdue is one of the elite universities in Industrial Engineering, so the decision to come to Purdue is the best way to start my professional career as Purdue has a very good reputation and really well alumni network. Boiler Up!!!
+
+###3.Plans post Graduation- 
+
+My plan after graduation from Purdue is to work in the manufacturing sector where I can use my analytical as well as mfg. specific technical skills in enhancing processes and decision making.  
+
+###4.Photo
+
+![Varun Srivastava](C:\Users\Varun Srivastava\Desktop\Varun Photo Small.jpg)
